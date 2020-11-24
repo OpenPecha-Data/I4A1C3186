@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG8823
   title: དགོངས་གཏེར་བཀའ་ཐང་དང་དེའི་འགྲེལ་པ།
-  volume: ''
+  volume:
+    0720945eaf914b29b299758f203a6cdd:
+      image_group_id: I1KG8873
+      title: Volume 1 of dgongs gter bka' thang dang de'i 'grel pa
+      volume_number: 1
+      total_pages: 114
   author: ''
+ebook_metadata:
+  title: དགོངས་གཏེར་བཀའ་ཐང་དང་དེའི་འགྲེལ་པ།
+  author: ''
+  sku: P000335
+  cover: cover.jpg
+  layers:
+  - pagination
